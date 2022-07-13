@@ -1,30 +1,21 @@
-### Hi there I am Rifadh 👋
+### Hi there 👋, Im Rifadh
+#### Web Developer
+![Web Developer](https://twitter.com/rifadh47/header_photo)
 
-## I'm an Undergraduate & Developer >>>
-- I studies in SLIIT - 3rd year [Faculty of Computing]
-- I am following Bachelor of Science in Information Technology 
-- I am looking to work on growing company
-- 2022 Goal : Contribute to Open Source projects.
+-Passionate in Technology, Hard working and problem solving skills to working in a growing company. 
+-Dedicated to work and deliver task within deadline.
+-High intense to work as a web developer and to build responsive websites.
+-I have knowledge in HTML,CSS,JS and learning other front-end technologies like react and have proper understanding on technologies.
 
-### Connect with me:
-
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+Skills:  REACT / JS / HTML / CSS / JAVA
 
 
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RifadhRFD)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mohammed-rifadh-rfd/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/rifadh__47/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/rifadh47)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/rifadhrfd)  
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RifadhRFD&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RifadhRFD&show_icons=true)  
 
-</details>
+
 
 
 
