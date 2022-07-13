@@ -1,11 +1,11 @@
 ### Hi there 👋, Im Rifadh
 #### Web Developer
-![Web Developer](https://twitter.com/rifadh47/header_photo)
 
--Passionate in Technology, Hard working and problem solving skills to working in a growing company. 
--Dedicated to work and deliver task within deadline.
--High intense to work as a web developer and to build responsive websites.
--I have knowledge in HTML,CSS,JS and learning other front-end technologies like react and have proper understanding on technologies.
+
+-Passionate in Technology, Hard working and problem solving skills to working in a growing company. <br>
+-Dedicated to work and deliver task within deadline. <br>
+-High intense to work as a web developer and to build responsive websites. <br>
+-I have knowledge in HTML,CSS,JS and learning other front-end technologies like react and have proper understanding on technologies. <br>
 
 Skills:  REACT / JS / HTML / CSS / JAVA
 
