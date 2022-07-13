@@ -2,9 +2,9 @@
 #### Web Developer 
 
 ![Web Developer](https://images.unsplash.com/photo-1510915228340-29c85a43dcfe?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8ZGV2ZWxvcGVyJTIwd29ya2luZ3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60)
-<br>
-Undergraduate: Following BSc in information Technology degree programme @SLIIT
-<br>
+<br/>
+##Undergraduate: Following BSc in information Technology degree programme @SLIIT
+<br/>
 -Passionate in Technology, Hard working and problem solving skills to working in a growing company. <br>
 -Dedicated to work and deliver task within deadline. <br>
 -High intense to work as a web developer and to build responsive websites. <br>
@@ -18,25 +18,3 @@ Skills:  REACT / JS / HTML / CSS / JAVA
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RifadhRFD&show_icons=true)  
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!---
-- 👋 Hi, I’m @RifadhRFD
-- 👀 I’m interested in Web Development.
-- 🌱 I’m currently following BSc in Information Technology.
-<!-- - 💞️ I’m looking to collaborate in side projects...
-- 📫 How to reach me. Instagram->rifadh__47 Twitter->@rifadh47
-RifadhRFD/RifadhRFD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
