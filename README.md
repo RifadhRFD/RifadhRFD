@@ -1,7 +1,10 @@
 ### Hi there 👋, Im Rifadh
-#### Web Developer
+#### Web Developer 
 
-
+![Web Developer](https://images.unsplash.com/photo-1510915228340-29c85a43dcfe?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8ZGV2ZWxvcGVyJTIwd29ya2luZ3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60)
+<br>
+Undergraduate: Following BSc in information Technology degree programme @SLIIT
+<br>
 -Passionate in Technology, Hard working and problem solving skills to working in a growing company. <br>
 -Dedicated to work and deliver task within deadline. <br>
 -High intense to work as a web developer and to build responsive websites. <br>
