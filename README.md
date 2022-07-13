@@ -1,9 +1,9 @@
 ### Hi there 👋, Im Rifadh
-#### Web Developer 
+## Web Developer 
 
 ![Web](https://piktochart.com/wp-content/uploads/2021/12/large-338.jpg)
 <br/>
-## Undergraduate: Following BSc in information Technology degree programme @SLIIT
+### Undergraduate: Following BSc in information Technology degree programme @SLIIT
 <br/>
 -Passionate in Technology, Hard working and problem solving skills to working in a growing company. <br>
 -Dedicated to work and deliver task within deadline. <br>
