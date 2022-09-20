@@ -1,5 +1,5 @@
 ### Hi there 👋, Im Rifadh
-## Web Developer 
+## Software Developer 
 
 ![Web](https://piktochart.com/wp-content/uploads/2021/12/large-338.jpg)
 <br/>
@@ -8,10 +8,10 @@
 <br/>
 -Passionate in Technology, Hard working and problem solving skills to working in a growing company. <br>
 -Dedicated to work and deliver task within deadline. <br>
--High intense to work as a web developer and to build responsive websites. <br>
--I have knowledge in HTML,CSS,JS and learning other front-end technologies like react and have proper understanding on technologies. <br>
+-High intense to work as a software developer and to build responsive applications. <br>
+-I have knowledge in HTML,CSS,JS,JAVA and learning other front-end and backend technologies. <br>
 
-Skills:  REACT / JS / HTML / CSS / JAVA
+Skills:  JAVA / REACT / Java Script / HTML / CSS / MSSQL
 
 
 
