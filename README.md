@@ -1,7 +1,5 @@
 ### Hi there 👋, Im Rifadh
 ## Software Developer 
-
-![Web](https://piktochart.com/wp-content/uploads/2021/12/large-338.jpg)
 <br/>
 #### Undergraduate: Following BSc in information Technology degree programme @SLIIT <br/>
 #### 3rd Year
