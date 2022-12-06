@@ -1,8 +1,8 @@
 ### Hi there 👋, Im Rifadh
 ## Software Developer 
 <br/>
-#### Undergraduate: Following BSc in information Technology degree programme @SLIIT <br/>
-#### 3rd Year
+### Undergraduate: Following BSc in information Technology degree programme @SLIIT <br/>
+### 3rd Year
 <br/>
 -Passionate in Technology, Hard working and problem solving skills to working in a growing company. <br>
 -Dedicated to work and deliver task within deadline. <br>
