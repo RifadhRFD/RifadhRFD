@@ -3,15 +3,15 @@
 
 - 🔭 I’m currently working on **React Projects**
 
-- 🌱 I’m currently learning **React, NodeJS and AWS**
+- 🌱 I’m currently learning **React, NodeJS and Cloud Services**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 💬 Ask me  **if you like to set foot in Full-Stack Development **
+- 💬 Ask me  **if you like to set foot in Full-Stack Development**
 
 - 📫 How to reach me **rifadhrfd@gmail.com**
 
-- ⚡ Fact about myself **Prioritizing privacy and more economical with words**
+- ⚡ Fact about myself -> **More economical with words**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
