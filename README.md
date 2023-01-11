@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **rifadhrfd@gmail.com**
 
-- ⚡ Fact **Prioritizing privacy and more economical with words**
+- ⚡ Fact about myself **Prioritizing privacy and more economical with words**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
